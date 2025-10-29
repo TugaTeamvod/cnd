@@ -1,1 +1,52 @@
-// file
+[
+    {
+        "tmdb_id": 1156594,
+        "title": "Nossa Culpa",
+        "date_added": "2025-10-17",
+        "type": "movie",
+        "streams": [],
+        "year": 2025,
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "actors": [
+            "Nicole Wallace",
+            "Gabriel Guevara",
+            "Gabriela Andrada",
+            "Marta Hazas",
+            "Goya Toledo"
+        ],
+        "rating": 6.8,
+        "vote_count": 19,
+        "director": [
+            "Domingo González"
+        ],
+        "runtime": 113,
+        "premiered": "2025-10-15",
+        "poster": "https://image.tmdb.org/t/p/w500/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+        "clearlogo": "https://image.tmdb.org/t/p/w500/zfed1DGodryYkyPNicj9tSRiuAP.png",
+        "synopsis": "O casamento de Jenna e Lion marca o tão esperado reencontro entre Noah e Nick após o término. A incapacidade de Nick de perdoar Noah é uma barreira intransponível. Ele, herdeiro dos negócios do avô, e ela, iniciando a vida profissional, evitam alimentar uma chama ainda acesa. Mas, agora que seus caminhos se cruzaram novamente, será o amor mais forte que o ressentimento?",
+        "studio": [
+            "Pokeepsie Films",
+            "Amazon MGM Studios"
+        ],
+        "popularity": 855.1911,
+        "imdb_id": "tt33311244",
+        "revenue": 0,
+        "trending": true,
+        "providers": [],
+        "original_language": "es",
+        "status": "Released",
+        "collection": "Culpa: Coleção",
+        "certification": "",
+        "keywords": [
+            "based on novel or book",
+            "sequel",
+            "novel"
+        ],
+        "original_title": "Culpa nuestra"
+    }
+
+]
